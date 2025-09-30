@@ -1,1 +1,1 @@
-I just oractised some codes to learn python
+I just practised some codes to learn python
